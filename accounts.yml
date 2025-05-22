@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "ACCOUNT LOCAL "
+  message: "ACCOUNT LOCAL 1 "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
